@@ -1,0 +1,1 @@
+For project 02 we had to create a class. In project01 I used AI to help me come up with the data and database that we will work with. Now that I already had my database options, with AI I helped it write me a outline in pseudocode for what my class will be based on my current dictionary. 
