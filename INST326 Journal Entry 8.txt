@@ -1,0 +1,1 @@
+This week I used AI to help me debug my Python code during week 8 exercise. 
